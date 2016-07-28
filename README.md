@@ -12,10 +12,13 @@
 Приложение добавляет/удаляет записи с названием и описанием, используя indexedDB, при этом, выглядя нативно. Реализованы иконки и сплешскрин.
 
 Скриншоты интерефейса из chrome:
+
 ![alt text](https://urkass.github.io/task4_phonegap/screenshots/scrn1.png "Screenshot 1")
 ![alt text](https://urkass.github.io/task4_phonegap/screenshots/scrn2.png "Screenshot 2")
 ![alt text](https://urkass.github.io/task4_phonegap/screenshots/scrn3.png "Screenshot 3")
+
 Установлено на ios (note в правом нижнем углу):
+
 ![alt text](https://urkass.github.io/task4_phonegap/screenshots/scrn4.jpg "Screenshot 4")
 
 
